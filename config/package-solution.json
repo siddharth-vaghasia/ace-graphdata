@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ace-graphdata-client-side-solution",
+    "id": "b3e681de-a4b8-432f-a854-1c465a1b6748",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0-beta.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ace-graphdata description"
+      },
+      "longDescription": {
+        "default": "ace-graphdata description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ace-graphdata Feature",
+        "description": "The feature that activates elements of the ace-graphdata solution.",
+        "id": "34295221-fe56-4ea2-a11d-0d887e87822c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ace-graphdata.sppkg"
+  }
+}
